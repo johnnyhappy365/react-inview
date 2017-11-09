@@ -33,7 +33,7 @@
   "homepage": "https://github.com/rxaviers/react-inview",
   "dependencies": {
     "jquery": "*",
-    "jquery-inview": "git://github.com/rxaviers/jquery.inview#master"
+    "jquery-inview": "*"
   },
   "peerDependencies": {
     "react": ">= 0.14.0 < 1.0.0"
